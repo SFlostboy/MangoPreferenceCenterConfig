@@ -1,5 +1,5 @@
 {
-  "name": "Mango Preference Config",
+  "name": "mango-contentsdk-pref-config",
   "version": "0.0.1",
   "description": "Mango SFMC Preference Configuration",
   "main": "index.js",
